@@ -8,11 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -26,7 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![blog-preview-card-sol-ss](https://github.com/mahesh-143/blog-preview-card/assets/68990762/98ce5164-7a77-40c0-a607-3cb7eaf2e637)
+
 
 ### Links
 
